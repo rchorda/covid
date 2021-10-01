@@ -1,4 +1,6 @@
 Fecha;Día de la semana;Casos;test coresp;Nº de pacientes a los que se ha realizado pruebas;Tasa de positividad (%);Asintomáticos;Zaragoza;1 a 14 años;15 a 24 años;25 a 34 años;35 a 44 años;45 a 54 años;55 a 64 años;65 a 74 años;75 años o más;Camas Ocup;Camas libres;UCI ocupadas;UCI libres con resp;Alarma
+28/9/21;2;80;2795;1889;2,86;58;62;14;7;10;13;12;10;5;8;93;1329;25;86;1
+27/9/21;1;84;2484;1881;3,38;63;51;14;5;10;7;15;4;3;25;95;1373;24;89;1
 26/9/21;7;41;1149;668;3,57;54;29;11;2;3;3;5;6;4;6;95;1578;25;96;1
 25/9/21;6;52;1322;911;3,93;50;45;12;4;4;6;7;2;3;13;90;1651;25;97;1
 24/9/21;5;85;2581;1755;3,29;49;59;13;4;17;9;13;0;11;17;99;1584;25;95;1
